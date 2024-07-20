@@ -23,7 +23,7 @@ Make sure you have the following installed:
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/SubhashreePani/QuiQ-Assignment.git
+git clone https://github.com/SubhashreePani/QuiQ-Assinment.git
 cd QuiQ-Assignment
 
 cd client/src
