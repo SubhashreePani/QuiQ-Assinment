@@ -48,7 +48,7 @@ Access the Application
 Open your web browser and go to http://localhost:3000 to access the application.
 
 Features
-Social media login (e.g., Google, Facebook)
+Social media login 
 User authentication
 Simple user interface
 
